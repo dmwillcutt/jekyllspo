@@ -1,2 +1,3 @@
 title: Jekyll Trying Out!
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
